@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavo Cristaus</h1>
 <h3 align="center">IDN</h3>
+<img align="right" alt="Coding" width="400" src="https://pa1.aminoapps.com/7219/04dd0e9ac40347ac391d9ba6323f6b822f182831r1-256-256_00.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
